@@ -1,6 +1,6 @@
 <h1 align="center"> 
     <a href="https://rajathpi.github.io/AmongUs/">AmongUs</a>  
-    <img src="https://imgur.com/ANMTuwd.gif" width="70" align="center">
+    <img src="https://imgur.com/NcobISn.gif" width="70" align="center">
 </h1>
 <a href="https://raw.githubusercontent.com/rajathpi/AmongUs/main/main.py">
   code
