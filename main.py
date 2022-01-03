@@ -11,7 +11,7 @@ clock = pygame.time.Clock()
 
 # Options
 WINDOW_SIZE = (1000, 500) # (Width, Height)
-DRAW_LINES = False # (Draw lines between the dinosaur and cactus to see what the AI sees)
+DRAW_LINES = False # (Draw lines between the character and blocks to see what the AI sees)
 
 screen = pygame.display.set_mode(WINDOW_SIZE)
 display = pygame.Surface(WINDOW_SIZE)
