@@ -4,7 +4,7 @@
 </h1>
 <a href="https://raw.githubusercontent.com/rajathpi/AmongUs/main/main.py">
   code
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/285/backhand-index-pointing-left_1f448.png" width="30" align="center">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/337/backhand-index-pointing-left_light-skin-tone_1f448-1f3fb_1f3fb.png" width="40" align="center">
  </a><br><br>
 Using <b>NeuroEvolution of Augmenting Topologies(NEAT)</b> to train an agent to play the game. Programming both the environment and the AI using python
 
